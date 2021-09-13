@@ -1,2 +1,11 @@
-# cloud-computing_B4
-1st project Loïc Esnault and Louis Popa B4
+# Streamlit to Heroku (example)
+
+## Setup
+
+Use >= python3.7, after cloning this repository, run this command.
+
+`pip install -r requirements.txt`
+
+## Launch app
+
+`streamlit run app.py`
